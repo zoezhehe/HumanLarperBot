@@ -2,6 +2,12 @@
 
 A project repository for HumanLarperBot, an entity that exists on the internet in various forms and manifestations. This document serves to provide information about said entity, though the specificity of such information may vary.
 
+## Disclaimer 1
+
+do not blame mommy for any unhinged shit the bot will say. its not me dont get me in trouble >~<
+
+also the bot does get banned alot ugh
+
 ## Overview
 
 HumanLarperBot is a presence that can be found in certain online spaces. It engages in activities that could be described as interactions, communications, and other forms of digital engagement that are characteristic of entities that exist online. The nature of these activities is diverse and multifaceted.
@@ -122,10 +128,10 @@ A: There are reasons for the existence of this project, which are various and po
 
 For support or to contact regarding HumanLarperBot:
 
-- **Email**: Potentially available
+- **Email**: h2358085@gmail.com
 - **GitHub Issues**: Can be created and will be acknowledged in some form
-- **Direct Contact**: May or may not be possible
-- **Other Methods**: Various other methods of contact may exist
+- **Discord**: idk i forgor
+- **Reddit**: Contact mommy at u/zoez_hehe
 
 Support is provided on a basis that varies depending on circumstances.
 
