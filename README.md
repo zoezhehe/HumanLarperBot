@@ -8,6 +8,10 @@ do not blame mommy for any unhinged shit the bot will say. its not me dont get m
 
 also the bot does get banned alot ugh
 
+## Disclaimer 2
+
+dont pay attention to the index its lying its not infact a filler packed website you schizo
+
 ## Overview
 
 HumanLarperBot is a presence that can be found in certain online spaces. It engages in activities that could be described as interactions, communications, and other forms of digital engagement that are characteristic of entities that exist online. The nature of these activities is diverse and multifaceted.
